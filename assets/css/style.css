@@ -312,12 +312,68 @@ h6 {
   transition: 0.3s;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 1130px) {
 .imagelogo {
   margin-bottom: 100px;
   margin-left: 150px;
 }
 }
+
+
+@media (max-height: 720px) {
+  .imagelogo {
+    margin-bottom: 500px;
+  }
+  }
+
+
+@media (max-height: 720px) {
+  .measure {
+    margin-bottom: 500px;
+  }
+  }
+
+@media (max-height: 600px) {
+  .measure {
+    margin-bottom: 500px;
+  }
+  }
+
+@media (max-height: 500px) {
+  .measure {
+    margin-bottom: 500px;
+  }
+  }
+
+  @media (max-height: 400px) {
+    .measure {
+      margin-bottom: 500px;
+    }
+    }
+
+    @media (max-height: 300px) {
+      .measure {
+        margin-bottom: 500px;
+      }
+      }
+
+      @media (max-height: 200px) {
+        .measure {
+          margin-bottom: 500px;
+        }
+        }
+
+        @media (max-height: 100px) {
+          .measure {
+            margin-bottom: 500px;
+          }
+          }
+
+          @media (max-height: 50px) {
+            .measure {
+              margin-bottom: 600px;
+            }
+            }
 
 .navbar-mobile a,
 .navbar-mobile a:focus {
