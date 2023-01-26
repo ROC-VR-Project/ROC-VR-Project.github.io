@@ -322,6 +322,7 @@ h6 {
 
 @media (max-height: 720px) {
   .imagelogo {
+    margin-top: 500px;
     margin-bottom: 500px;
   }
   }
@@ -329,48 +330,56 @@ h6 {
 
 @media (max-height: 720px) {
   .measure {
+    margin-top: 500px;
     margin-bottom: 500px;
   }
   }
 
 @media (max-height: 600px) {
   .measure {
+    margin-top: 500px;
     margin-bottom: 500px;
   }
   }
 
 @media (max-height: 500px) {
   .measure {
+    margin-top: 500px;
     margin-bottom: 500px;
   }
   }
 
   @media (max-height: 400px) {
     .measure {
+      margin-top: 500px;
       margin-bottom: 500px;
     }
     }
 
     @media (max-height: 300px) {
       .measure {
+        margin-top: 500px;
         margin-bottom: 500px;
       }
       }
 
       @media (max-height: 200px) {
         .measure {
+          margin-top: 500px;
           margin-bottom: 500px;
         }
         }
 
         @media (max-height: 100px) {
           .measure {
+            margin-top: 500px;
             margin-bottom: 500px;
           }
           }
 
           @media (max-height: 50px) {
             .measure {
+              margin-top: 500px;
               margin-bottom: 600px;
             }
             }
